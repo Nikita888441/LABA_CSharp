@@ -21,9 +21,9 @@
             double res = 1;
             Console.WriteLine("Довжина суми ряду:");
             int n = Convert.ToInt32(Console.ReadLine());
-            for (int i = n; i > 0; i--)
+            for (int i = n;i>0;i--)
             {
-                res += (Math.Pow(n, 2) - Math.Pow(-1, n + 1) * (Math.Pow(n, 3)) / Math.Pow(n, 2) + n + 1);
+                res+=(Math.Pow(n, 2)-Math.Pow(-1,n + 1)*(Math.Pow(n,3))/Math.Pow(n, 2)+n+1);
             }
             Console.WriteLine(res);
         }*/
