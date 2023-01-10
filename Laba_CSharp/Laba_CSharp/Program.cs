@@ -6,17 +6,20 @@
         {
             /* static void Main(string[] args)
         {
-            Console.WriteLine("Введiть напругу:");
+            Console.WriteLine("Напруга:");
             double u = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Введiть силу струму:");
+            Console.WriteLine("Струм:");
             double i = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine($"Опiр провiдника:{(double)(u / i)}");
         }
        */
-        /*static void Main(string[] args)
+        
+            
+            
+            /*static void Main(string[] args)
         {
             double res = 1;
-            Console.WriteLine("Введiть довжину суми ряду:");
+            Console.WriteLine("Довжина суми ряду:");
             int n = Convert.ToInt32(Console.ReadLine());
             for (int i = n; i > 0; i--)
             {
@@ -25,7 +28,11 @@
             Console.WriteLine(res);
         }*/
 
-        /*static void Main()
+        
+            
+            
+            
+            /*static void Main()
         {
             int x, y;
             bool res = false;
@@ -36,7 +43,12 @@
             }
             Console.WriteLine(res);
         }*/
-        /*static void Main()
+        
+            
+            
+            
+            
+            /*static void Main()
         {
             int n = Convert.ToInt32(Console.ReadLine());
             bool flag = false;
@@ -55,7 +67,12 @@
             }
             if (flag == false) Console.WriteLine(0);
         }*/
-        /*static void Main()
+        
+            
+            
+            
+            
+            /*static void Main()
         {
             int n = Convert.ToInt32(Console.ReadLine());
             int m = Convert.ToInt32(Console.ReadLine());
